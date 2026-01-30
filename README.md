@@ -45,7 +45,6 @@ Security:      Vault, Google Secret Manager
 
 ## 🌍 Remote Work
 
-- Based in **Ukraine** (open to remote opportunities)
 - Fluent in **English** (C1/C2)
 - Proven track record working with distributed teams across time zones
 - Strong communicator with experience in async collaboration
